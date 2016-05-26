@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/philippeschraepen/git/tch-frontend-hydra'
+let g:netrw_dirhist_2='/private/var/folders/bl/pz478q8x15g3fmnstlmkcl6w0000gn/T/git-difftool.F__oL/left'
+let g:netrw_dirhist_3='/Users/philippeschraepen/Development/git/Chimaera/tch-frontend-chimaera'
+let g:netrw_dirhist_4='/Users/philippeschraepen/Development/git/Chimaera/tch-frontend-chimaera/src'
+let g:netrw_dirhist_5='/Users/philippeschraepen/Development/git/Chimaera/tch-frontend-chimaera/src/app'
+let g:netrw_dirhist_6='/Users/philippeschraepen/Development/git/Chimaera/tch-frontend-chimaera/src'
+let g:netrw_dirhist_7='/Users/philippeschraepen/Development/git/Chimaera/tch-frontend-chimaera/src/app'
