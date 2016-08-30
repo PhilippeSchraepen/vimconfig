@@ -6,6 +6,6 @@ My personal webdev configuration for vim. This will install plugins with Vundle 
 
 * Create a symlink to ~/.vimrc:
 
-`ln -sf ~/.vim/.vimrc ~/.vimrc`
+```ln -sf ~/.vim/.vimrc ~/.vimrc```
 
 Open vim and run ```:PluginInstall```
