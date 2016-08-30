@@ -1,10 +1,10 @@
-# vim
-A backup of ~/.vim
+# Vim config
+My personal webdev configuration for vim. This will install plugins with Vundle + update the vimrc dotfile.
 
 ## installation
-*Clone this project to ~/.vim
+* Clone this project to ~/.vim
 
-*Create a symlink to ~/.vimrc:
+* Create a symlink to ~/.vimrc:
 
 `ln -sf ~/.vim/.vimrc ~/.vimrc`
 
