@@ -2,4 +2,6 @@
 A backup of ~/.vim
 
 ## installation
-ln -sf ~/.vim/.vimrc ~/.vimrc
+Clone this project to ~/.vim
+Create a symlink to ~/.vimrc:
+'ln -sf ~/.vim/.vimrc ~/.vimrc'
